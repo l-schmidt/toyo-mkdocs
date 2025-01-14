@@ -1,4 +1,4 @@
-# Using YouTube for MYO
+# YouTube for MYO
 
 Author: [u/playchime](https://www.reddit.com/u/playchime)
 

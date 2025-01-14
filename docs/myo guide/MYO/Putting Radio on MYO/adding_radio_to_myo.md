@@ -9,5 +9,5 @@ Using your Yoto player for radio is something I see a lot of people get tripped 
 That said, once you do have a working link you’d like to add to your player, adding the station is actually pretty simple!
 
 - [Radio Stations Setup - Using a Computer](radio_computer.md)
-- [Radio Stations Setup - Using the Yoto App](radio_app.md)
+- [Radio Stations Setup - Using the Yoto App](radio_yoto_app.md)
 

@@ -8,6 +8,6 @@ Yoto makes it very easy to make MYO playlists, and you can make them either in y
  
 Please also note you do not yet need to own a Yoto device to be able to sign up and make playlists! I totally recommend signing up before purchasing so you can try out making a playlist to see how you feel about the process/using the app/etc. You can also start making them while your Yoto is in transit to you so you have playlists ready to be listened to when it arrives! 
 
-Are you using a [computer](playlist_computer.md) or working on a [phone or tablet](playlist_app.md)?
+Are you using a [computer](playlist_computer.md) or working on a [phone or tablet](playlist_yoto_app.md)?
 
 

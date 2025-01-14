@@ -1,4 +1,4 @@
-# Using Spotify for MYO
+# Spotify for MYO
 
 Author: [u/playchime](https://www.reddit.com/u/playchime)
 

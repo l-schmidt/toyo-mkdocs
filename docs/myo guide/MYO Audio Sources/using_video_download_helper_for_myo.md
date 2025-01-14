@@ -1,4 +1,4 @@
-# Using Video Download Helper for MYO
+# Video Download Helper for MYO
 
 Author: [u/playchime](https://www.reddit.com/u/playchime)
 
